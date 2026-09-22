@@ -1,0 +1,6 @@
+{
+  "name": "GraminSeva - Local Services & Marketplace",
+  "description": "Vernacular digital platform connecting verified local service providers, merchants, and emergency responders in Tier 2/3 towns with voice navigation and UPI escrow.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
